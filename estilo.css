@@ -153,7 +153,7 @@
         
         #sobremi .contenedor-foto img {
             padding: 8px;
-            width: 200%;
+            width: 100%;
             border-radius: 20px;
             background-color: #ffffff;
         }
@@ -195,7 +195,7 @@
         
         #sobremi .sobremi p {
             font-size: 18px;
-            font-weight: 300;
+            font-weight: 400;
             line-height: 25px;
             color: #020202;
             margin-bottom: 1px;
